@@ -2,8 +2,6 @@
 
 Demonstrate understanding in Hadoop MapReduce.
 
-input for both MapReduce will be : tiny-graph.txt
-
 There is more advanced input provided.
 
 # 1st: Average Length of outgoing nodes (EdgeAverage.jar)
